@@ -1,0 +1,15 @@
+.header {
+    border: 2px double black;
+    border-radius: 25px;
+    background-color: lightskyblue;
+    font-family: fantasy;
+    text-align: center;
+}
+
+body {
+    background-color: magenta;
+}
+
+.jumbotron {
+    background-color: magenta;
+}
