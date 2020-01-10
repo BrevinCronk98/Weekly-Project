@@ -7,11 +7,12 @@
 }
 
 body {
-    background-color: magenta;
+    background-color: lightslategray;
 }
 
 .repo {
     list-style-type: none;  
+    background-color: beige;
 }
 
 .me {
@@ -22,6 +23,8 @@ img {
     border-radius: 5%;
     margin-right: 120px;
     border: 15px solid lightskyblue;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 .strong {
     font-weight: bold;
@@ -37,6 +40,14 @@ img.pc {
     margin-right: 100px;
     border: 15px solid lightskyblue;
     float: left ;
-    margin-top: 250px;
+    margin-top: 125px;
     margin-left: 125px;
+}
+
+.cascade p {
+    background-color: beige;
+}
+
+img.lily {
+    margin-left: 125px;   
 }
