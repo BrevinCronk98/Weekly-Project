@@ -20,7 +20,8 @@ body {
  
 img {
     border-radius: 5%;
-    margin-right: 150px;
+    margin-right: 120px;
+    border: 15px solid lightskyblue;
 }
 .strong {
     font-weight: bold;
@@ -29,8 +30,13 @@ img {
 .aboutme {
     margin: 10px;
     margin-left: 25px;
+    margin-bottom: 50px;
 }
 
 img.pc {
-    margin-right: 250px;
+    margin-right: 100px;
+    border: 15px solid lightskyblue;
+    float: left ;
+    margin-top: 250px;
+    margin-left: 125px;
 }
