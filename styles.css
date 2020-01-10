@@ -18,3 +18,9 @@ body {
     list-style-type: none;
 }
  
+img {
+    border-radius: 5%;
+}
+.strong {
+    font-weight: bold;
+}
