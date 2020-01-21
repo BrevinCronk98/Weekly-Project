@@ -14,8 +14,12 @@
 
 ## Technology Used
 
-#### I used HTML, CSS aswell as Bootstrap 4 to create this webpage. It includes columns, photos and links to my other repos featured on the website.
+#### I used HTML, CSS aswell as Bootstrap 4 to create this webpage. It includes columns, photos and links to my other repos featured on
+ the website.
 
+### Git Hub
+
+### https://github.com/BrevinCronk98/Weekly-Project/tree/gh-pages
 
 # Legal
 
