@@ -19,7 +19,7 @@
 
 ### Git Hub
 
-### https://github.com/BrevinCronk98/Weekly-Project/tree/gh-pages
+### http://brevincronk98.github.io/weekly-project
 
 # Legal
 
