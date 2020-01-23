@@ -1,0 +1,79 @@
+.header {
+    border: 2px double black;
+    border-radius: 25px;
+    background-color: lightskyblue;
+    font-family: fantasy;
+    text-align: center;
+}
+
+.header2 {
+    font-family: cursive;
+    border: dashed 5px darkblue;
+    border-radius: 25px;
+    background-color: lightpink;
+    font-size: 28px;
+}
+
+body {
+    background-color: lightslategray;
+}
+
+.repo {
+    list-style-type: none;  
+    background-color: beige;
+}
+
+.me {
+    list-style-type: none;
+}
+ 
+img {
+    border-radius: 5%;
+    margin-right: 120px;
+    border: 15px solid lightskyblue;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.strong {
+    font-weight: bold;
+}
+
+.aboutme {
+    margin: 10px;
+    margin-left: 25px;
+    margin-bottom: 50px;
+}
+
+img.pc {
+    margin-right: 100px;
+    border: 15px solid lightskyblue;
+    float: left ;
+    margin-left: 125px;
+}
+
+.cascade p {
+    background-color: beige;
+}
+
+img.lily {
+    margin-left: 125px;   
+}
+
+img.lily2 {
+    margin-left: 400px;
+}
+
+.Edu {
+    margin-bottom: 30px;
+}
+
+.cascade ol {
+    background-color: beige;
+}
+
+@media screen and (max-width: 1500px) {
+    body {
+        background-color: darkgray;
+    }
+}
+  
